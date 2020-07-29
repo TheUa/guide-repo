@@ -1,0 +1,4 @@
+the/ua/webbrowsing/ExampleInstrumentedTest.java
+ the.ua.webbrowsing.ExampleInstrumentedTest
+the/ua/webbrowsing/test/BuildConfig.java
+ the.ua.webbrowsing.test.BuildConfig

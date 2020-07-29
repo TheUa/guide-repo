@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82c6b2b7-f7e9-4407-add2-d98684cec4b2" name="Default Changelist" comment="initial">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/dionisview">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/dionis-view">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="the.ua web browsing" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fIfq8xRWreDh27085JjFv8RQwB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="android.project.structure" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="the.ua.dionisview" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="the.ua.webbrowsing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dionisview/src/main/res" />
+      <recent name="$PROJECT_DIR$/dionisview/src/main/res/xml" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/the/ua/webbrowsing" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.theuawebbrowsing [install]">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="theuawebbrowsing [bintrayUpload]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bintrayUpload" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="theuawebbrowsing [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="theuawebbrowsing [clean build bintrayUpload]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--project-prop bintrayUser=theua --project-prop bintrayKey=06a630c71898efa81c2b2133a9cfa6f7647648ed --project-prop dryRun=false" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+            <option value="bintrayUpload" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="theuawebbrowsing [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="install" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="theuawebbrowsing:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.theuawebbrowsing [clean build bintrayUpload]" />
+        <item itemvalue="Gradle.theuawebbrowsing [install]" />
+        <item itemvalue="Gradle.theuawebbrowsing [bintrayUpload]" />
+        <item itemvalue="Gradle.theuawebbrowsing [build]" />
+        <item itemvalue="Gradle.theuawebbrowsing:app [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82c6b2b7-f7e9-4407-add2-d98684cec4b2" name="Default Changelist" comment="" />
+      <created>1595910715940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595910715940</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1595947183065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595947183065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1596013746386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596013746386</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial">
+      <created>1596023209448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596023209448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="43" key="#Project_Structure" timestamp="1596007603541">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="230" y="43" key="#Project_Structure/45.23.1395.877@45.23.1395.877" timestamp="1596007603541" />
+    <state x="512" y="337" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595942105720">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="512" y="337" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/45.23.1395.877@45.23.1395.877" timestamp="1595942105720" />
+    <state x="191" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595922735765">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="191" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/45.23.1395.877@45.23.1395.877" timestamp="1595922735765" />
+    <state x="330" y="223" key="AndroidCreateResourceFileDialog" timestamp="1595923121466">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="330" y="223" key="AndroidCreateResourceFileDialog/45.23.1395.877@45.23.1395.877" timestamp="1595923121466" />
+    <state x="599" y="246" key="AndroidCreateXmlResourceDialog" timestamp="1595922034464">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="599" y="246" key="AndroidCreateXmlResourceDialog/45.23.1395.877@45.23.1395.877" timestamp="1595922034464" />
+    <state x="576" y="365" key="Github.ShareDialog" timestamp="1595947077630">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="576" y="365" key="Github.ShareDialog/45.23.1395.877@45.23.1395.877" timestamp="1595947077630" />
+    <state width="1353" height="424" key="GridCell.Tab.0.bottom" timestamp="1596031104180">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1353" height="424" key="GridCell.Tab.0.bottom/45.23.1395.877@45.23.1395.877" timestamp="1596031104180" />
+    <state width="1353" height="424" key="GridCell.Tab.0.center" timestamp="1596031104179">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1353" height="424" key="GridCell.Tab.0.center/45.23.1395.877@45.23.1395.877" timestamp="1596031104179" />
+    <state width="1353" height="424" key="GridCell.Tab.0.left" timestamp="1596031104178">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1353" height="424" key="GridCell.Tab.0.left/45.23.1395.877@45.23.1395.877" timestamp="1596031104178" />
+    <state width="1353" height="424" key="GridCell.Tab.0.right" timestamp="1596031104179">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1353" height="424" key="GridCell.Tab.0.right/45.23.1395.877@45.23.1395.877" timestamp="1596031104179" />
+    <state x="357" y="168" key="NewModule_or_Project.wizard" timestamp="1595952293211">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="357" y="168" key="NewModule_or_Project.wizard/45.23.1395.877@45.23.1395.877" timestamp="1595952293211" />
+    <state x="450" y="171" key="RollbackChangesDialog" timestamp="1596023049453">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="450" y="171" key="RollbackChangesDialog/45.23.1395.877@45.23.1395.877" timestamp="1596023049453" />
+    <state x="244" y="63" key="SettingsEditor" timestamp="1596007600659">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="244" y="63" key="SettingsEditor/45.23.1395.877@45.23.1395.877" timestamp="1596007600659" />
+    <state x="342" y="201" key="Vcs.Push.Dialog.v2" timestamp="1596023521063">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="342" y="201" key="Vcs.Push.Dialog.v2/45.23.1395.877@45.23.1395.877" timestamp="1596023521063" />
+    <state x="468" y="202" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1596023203795">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="468" y="202" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/45.23.1395.877@45.23.1395.877" timestamp="1596023203795" />
+    <state x="530" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596023268556">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="530" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/45.23.1395.877@45.23.1395.877" timestamp="1596023268556" />
+    <state x="409" y="141" width="667" height="640" key="find.popup" timestamp="1595911487307">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="409" y="141" width="667" height="640" key="find.popup/45.23.1395.877@45.23.1395.877" timestamp="1595911487307" />
+    <state x="505" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596023248633">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="505" y="357" key="git4idea.remote.GitConfigureRemotesDialog/45.23.1395.877@45.23.1395.877" timestamp="1596023248633" />
+    <state x="442" y="363" key="git4idea.ui.GitResetDialog" timestamp="1596023434620">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="442" y="363" key="git4idea.ui.GitResetDialog/45.23.1395.877@45.23.1395.877" timestamp="1596023434620" />
+    <state x="442" y="312" key="git4idea.ui.GitTagDialog" timestamp="1596023450911">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="442" y="312" key="git4idea.ui.GitTagDialog/45.23.1395.877@45.23.1395.877" timestamp="1596023450911" />
+    <state x="108" y="96" width="1291" height="730" key="new project wizard" timestamp="1595961765283">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="108" y="96" width="1291" height="730" key="new project wizard/45.23.1395.877@45.23.1395.877" timestamp="1595961765283" />
+    <state x="438" y="284" key="psd.add.jar.dependency.panel.dimension" timestamp="1596007466747">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="438" y="284" key="psd.add.jar.dependency.panel.dimension/45.23.1395.877@45.23.1395.877" timestamp="1596007466747" />
+    <state x="254" y="174" key="psd.add.library.dependency.panel.dimension" timestamp="1596007596205">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="254" y="174" key="psd.add.library.dependency.panel.dimension/45.23.1395.877@45.23.1395.877" timestamp="1596007596205" />
+    <state x="438" y="76" key="psd.add.module.dependency.panel.dimension" timestamp="1595967693583">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="438" y="76" key="psd.add.module.dependency.panel.dimension/45.23.1395.877@45.23.1395.877" timestamp="1595967693583" />
+    <state x="553" y="244" key="refactoring.ChangeSignatureDialog" timestamp="1595939149794">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="553" y="244" key="refactoring.ChangeSignatureDialog/45.23.1395.877@45.23.1395.877" timestamp="1595939149794" />
+  </component>
+</project>

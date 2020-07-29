@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color select_color
+color white
+id agentweb_webview_id
+id mainframe_error_container_id
+id mainframe_error_viewsub_id
+id web_parent_layout_id
+layout agentweb_error_page
+string agentweb_camera
+string agentweb_cancel
+string agentweb_click_open
+string agentweb_coming_soon_download
+string agentweb_current_downloaded_length
+string agentweb_current_downloading_progress
+string agentweb_default_page_error
+string agentweb_download
+string agentweb_download_fail
+string agentweb_download_task_has_been_exist
+string agentweb_file_chooser
+string agentweb_file_download
+string agentweb_honeycomblow
+string agentweb_leave
+string agentweb_leave_app_and_go_other_page
+string agentweb_loading
+string agentweb_max_file_length_limit
+string agentweb_tips
+string agentweb_trickter
+style AppTheme
+xml web_files_public

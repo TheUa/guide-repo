@@ -1,0 +1,197 @@
+the/ua/dionisview/BaseJsAccessEntrace.java
+ the.ua.dionisview.BaseJsAccessEntrace
+ the.ua.dionisview.BaseJsAccessEntrace$1
+the/ua/dionisview/OpenNewWindowWebChromeClient.java
+ the.ua.dionisview.OpenNewWindowWebChromeClient
+ the.ua.dionisview.OpenNewWindowWebChromeClient$1
+ the.ua.dionisview.OpenNewWindowWebChromeClient$2
+ the.ua.dionisview.OpenNewWindowWebChromeClient$3
+ the.ua.dionisview.OpenNewWindowWebChromeClient$4
+the/ua/dionisview/JsAccessEntraceImpl.java
+ the.ua.dionisview.JsAccessEntraceImpl
+ the.ua.dionisview.JsAccessEntraceImpl$1
+the/ua/dionisview/BuildConfig.java
+ the.ua.dionisview.BuildConfig
+the/ua/dionisview/IWebLayout.java
+ the.ua.dionisview.IWebLayout
+the/ua/dionisview/DionisView.java
+ the.ua.dionisview.DionisView
+ the.ua.dionisview.DionisView$1
+ the.ua.dionisview.DionisView$AgentBuilder
+ the.ua.dionisview.DionisView$CommonBuilder
+ the.ua.dionisview.DionisView$IndicatorBuilder
+ the.ua.dionisview.DionisView$PermissionInterceptorWrapper
+ the.ua.dionisview.DionisView$PreAgentWeb
+ the.ua.dionisview.DionisView$SecurityType
+the/ua/dionisview/AbsAgentWebSettings.java
+ the.ua.dionisview.AbsAgentWebSettings
+the/ua/dionisview/DefaultWebCreator.java
+ the.ua.dionisview.DefaultWebCreator
+the/ua/dionisview/WebChromeClient.java
+ the.ua.dionisview.WebChromeClient
+the/ua/dionisview/EventInterceptor.java
+ the.ua.dionisview.EventInterceptor
+the/ua/dionisview/DefaultDesignUIController.java
+ the.ua.dionisview.DefaultDesignUIController
+ the.ua.dionisview.DefaultDesignUIController$1
+ the.ua.dionisview.DefaultDesignUIController$2
+ the.ua.dionisview.DefaultDesignUIController$2$1
+ the.ua.dionisview.DefaultDesignUIController$BottomSheetHolder
+the/ua/dionisview/AgentWebView.java
+ the.ua.dionisview.AgentWebView
+ the.ua.dionisview.AgentWebView$1
+ the.ua.dionisview.AgentWebView$AgentWebChrome
+ the.ua.dionisview.AgentWebView$AgentWebClient
+ the.ua.dionisview.AgentWebView$FixedOnReceivedTitle
+the/ua/dionisview/AgentWebJsInterfaceCompat.java
+ the.ua.dionisview.AgentWebJsInterfaceCompat
+ the.ua.dionisview.AgentWebJsInterfaceCompat$1
+the/ua/dionisview/AgentWebUtils.java
+ the.ua.dionisview.AgentWebUtils
+the/ua/dionisview/LollipopFixedWebView.java
+ the.ua.dionisview.LollipopFixedWebView
+the/ua/dionisview/PermissionInterceptor.java
+ the.ua.dionisview.PermissionInterceptor
+the/ua/dionisview/WebSecurityCheckLogic.java
+ the.ua.dionisview.WebSecurityCheckLogic
+the/ua/dionisview/AgentWebSettingsImpl.java
+ the.ua.dionisview.AgentWebSettingsImpl
+the/ua/dionisview/BaseIndicatorView.java
+ the.ua.dionisview.BaseIndicatorView
+the/ua/dionisview/MiddlewareWebChromeBase.java
+ the.ua.dionisview.MiddlewareWebChromeBase
+the/ua/dionisview/UrlLoaderImpl.java
+ the.ua.dionisview.UrlLoaderImpl
+ the.ua.dionisview.UrlLoaderImpl$1
+ the.ua.dionisview.UrlLoaderImpl$2
+ the.ua.dionisview.UrlLoaderImpl$3
+ the.ua.dionisview.UrlLoaderImpl$4
+ the.ua.dionisview.UrlLoaderImpl$5
+ the.ua.dionisview.UrlLoaderImpl$6
+ the.ua.dionisview.UrlLoaderImpl$7
+ the.ua.dionisview.UrlLoaderImpl$8
+the/ua/dionisview/JsInterfaceHolderImpl.java
+ the.ua.dionisview.JsInterfaceHolderImpl
+the/ua/dionisview/DefaultChromeClient.java
+ the.ua.dionisview.DefaultChromeClient
+ the.ua.dionisview.DefaultChromeClient$1
+the/ua/dionisview/JsInterfaceObjectException.java
+ the.ua.dionisview.JsInterfaceObjectException
+the/ua/dionisview/MiddlewareWebClientBase.java
+ the.ua.dionisview.MiddlewareWebClientBase
+the/ua/dionisview/WebParentLayout.java
+ the.ua.dionisview.WebParentLayout
+ the.ua.dionisview.WebParentLayout$1
+ the.ua.dionisview.WebParentLayout$2
+the/ua/dionisview/AbsAgentWebUIController.java
+ the.ua.dionisview.AbsAgentWebUIController
+the/ua/dionisview/HookManager.java
+ the.ua.dionisview.HookManager
+the/ua/dionisview/UrlCommonException.java
+ the.ua.dionisview.UrlCommonException
+the/ua/dionisview/WebCreator.java
+ the.ua.dionisview.WebCreator
+the/ua/dionisview/IUrlLoader.java
+ the.ua.dionisview.IUrlLoader
+the/ua/dionisview/LogUtils.java
+ the.ua.dionisview.LogUtils
+the/ua/dionisview/JsBaseInterfaceHolder.java
+ the.ua.dionisview.JsBaseInterfaceHolder
+the/ua/dionisview/JsAccessEntrace.java
+ the.ua.dionisview.JsAccessEntrace
+the/ua/dionisview/ProcessUtils.java
+ the.ua.dionisview.ProcessUtils
+the/ua/dionisview/EventHandlerImpl.java
+ the.ua.dionisview.EventHandlerImpl
+the/ua/dionisview/IndicatorController.java
+ the.ua.dionisview.IndicatorController
+the/ua/dionisview/WebLifeCycle.java
+ the.ua.dionisview.WebLifeCycle
+the/ua/dionisview/WebSecurityControllerImpl.java
+ the.ua.dionisview.WebSecurityControllerImpl
+the/ua/dionisview/AgentWebPermissions.java
+ the.ua.dionisview.AgentWebPermissions
+the/ua/dionisview/WebViewClientDelegate.java
+ the.ua.dionisview.WebViewClientDelegate
+the/ua/dionisview/WebIndicator.java
+ the.ua.dionisview.WebIndicator
+ the.ua.dionisview.WebIndicator$1
+ the.ua.dionisview.WebIndicator$2
+the/ua/dionisview/DefaultWebClient.java
+ the.ua.dionisview.DefaultWebClient
+ the.ua.dionisview.DefaultWebClient$1
+ the.ua.dionisview.DefaultWebClient$Builder
+ the.ua.dionisview.DefaultWebClient$OpenOtherPageWays
+the/ua/dionisview/VideoImpl.java
+ the.ua.dionisview.VideoImpl
+the/ua/dionisview/LayoutParamsOffer.java
+ the.ua.dionisview.LayoutParamsOffer
+the/ua/dionisview/IEventHandler.java
+ the.ua.dionisview.IEventHandler
+the/ua/dionisview/QuickCallJs.java
+ the.ua.dionisview.QuickCallJs
+the/ua/dionisview/HttpHeaders.java
+ the.ua.dionisview.HttpHeaders
+the/ua/dionisview/WebSecurityLogicImpl.java
+ the.ua.dionisview.WebSecurityLogicImpl
+the/ua/dionisview/DefaultWebLifeCycleImpl.java
+ the.ua.dionisview.DefaultWebLifeCycleImpl
+the/ua/dionisview/NestedScrollAgentWebView.java
+ the.ua.dionisview.NestedScrollAgentWebView
+the/ua/dionisview/IndicatorHandler.java
+ the.ua.dionisview.IndicatorHandler
+the/ua/dionisview/IWebIndicator.java
+ the.ua.dionisview.IWebIndicator
+the/ua/dionisview/IVideo.java
+ the.ua.dionisview.IVideo
+the/ua/dionisview/WebSecurityController.java
+ the.ua.dionisview.WebSecurityController
+the/ua/dionisview/JsCallJava.java
+ the.ua.dionisview.JsCallJava
+the/ua/dionisview/JsCallback.java
+ the.ua.dionisview.JsCallback
+ the.ua.dionisview.JsCallback$JsCallbackException
+the/ua/dionisview/IAgentWebSettings.java
+ the.ua.dionisview.IAgentWebSettings
+the/ua/dionisview/WebChromeClientDelegate.java
+ the.ua.dionisview.WebChromeClientDelegate
+the/ua/dionisview/AgentWebFileProvider.java
+ the.ua.dionisview.AgentWebFileProvider
+the/ua/dionisview/Provider.java
+ the.ua.dionisview.Provider
+the/ua/dionisview/AgentWebConfig.java
+ the.ua.dionisview.AgentWebConfig
+ the.ua.dionisview.AgentWebConfig$1
+ the.ua.dionisview.AgentWebConfig$2
+the/ua/dionisview/BaseIndicatorSpec.java
+ the.ua.dionisview.BaseIndicatorSpec
+the/ua/dionisview/DefaultUIController.java
+ the.ua.dionisview.DefaultUIController
+ the.ua.dionisview.DefaultUIController$1
+ the.ua.dionisview.DefaultUIController$10
+ the.ua.dionisview.DefaultUIController$11
+ the.ua.dionisview.DefaultUIController$12
+ the.ua.dionisview.DefaultUIController$2
+ the.ua.dionisview.DefaultUIController$3
+ the.ua.dionisview.DefaultUIController$4
+ the.ua.dionisview.DefaultUIController$5
+ the.ua.dionisview.DefaultUIController$6
+ the.ua.dionisview.DefaultUIController$7
+ the.ua.dionisview.DefaultUIController$8
+ the.ua.dionisview.DefaultUIController$9
+the/ua/dionisview/WebViewClient.java
+ the.ua.dionisview.WebViewClient
+the/ua/dionisview/JsInterfaceHolder.java
+ the.ua.dionisview.JsInterfaceHolder
+the/ua/dionisview/AgentWebUIControllerImplBase.java
+ the.ua.dionisview.AgentWebUIControllerImplBase
+the/ua/dionisview/ActionActivity.java
+ the.ua.dionisview.ActionActivity
+ the.ua.dionisview.ActionActivity$ChooserListener
+ the.ua.dionisview.ActionActivity$PermissionListener
+ the.ua.dionisview.ActionActivity$RationaleListener
+the/ua/dionisview/Action.java
+ the.ua.dionisview.Action
+ the.ua.dionisview.Action$1
+the/ua/dionisview/WebListenerManager.java
+ the.ua.dionisview.WebListenerManager

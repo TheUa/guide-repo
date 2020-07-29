@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="the.ua web browsing/app" />
+      <module fileurl="file://$PROJECT_DIR$/dionis-view/dionis-view.iml" filepath="$PROJECT_DIR$/dionis-view/dionis-view.iml" group="the.ua web browsing/dionis-view" />
+      <module fileurl="file://$PROJECT_DIR$/the.ua web browsing.iml" filepath="$PROJECT_DIR$/the.ua web browsing.iml" group="the.ua web browsing" />
+    </modules>
+  </component>
+</project>

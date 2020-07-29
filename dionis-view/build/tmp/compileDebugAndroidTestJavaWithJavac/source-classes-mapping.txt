@@ -1,0 +1,2 @@
+the/ua/dionisview/test/BuildConfig.java
+ the.ua.dionisview.test.BuildConfig

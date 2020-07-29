@@ -1,12 +1,15 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.novoda.bintray-release'
+
+//apply plugin: 'com.github.dcendents.android-maven'
 //apply plugin: 'com.jfrog.bintray'
 //apply plugin: 'maven'
+
 //apply plugin: 'java'
 //apply plugin: 'maven'
 
 //group = 'the.ua'
-//version = '1.0.2'
+//version = '1.0.5'
 //
 //uploadArchives {
 //    repositories {
@@ -17,23 +20,24 @@ apply plugin: 'com.github.dcendents.android-maven'
 
 
 
-ext {
-    bintrayRepo = 'dionis-view'
-    bintrayName = 'dionis-view'
-    publishedGroupId = 'the.ua'
-    libraryName = 'dionis-view'
-    artifact = 'dionis-view'
-    libraryDescription = 'Home Work'
-    siteUrl = 'https://github.com/TheUa/dionis-view'
-    gitUrl = 'https://github.com/TheUa/dionis-view'
-    libraryVersion = '1.0.2'
-    developerId = 'theua'
-    developerName = 'the'
-    developerEmail = 'ua'
-    licenseName = 'The Apache Software License, Version 3.0'
-    licenseUrl = 'http://www.apache.org/licenses/LICENSE-3.0.txt'
-    allLicenses = ["Apache-3.0"]
-}
+
+//ext {
+//    bintrayRepo = 'dionis-view'
+//    bintrayName = 'dionis-view'
+//    publishedGroupId = 'the.ua'
+//    libraryName = 'dionis-view'
+//    artifact = 'dionis-view'
+//    libraryDescription = 'Home Work'
+//    siteUrl = 'https://github.com/TheUa/dionis-view'
+//    gitUrl = 'https://github.com/TheUa/dionis-view'
+//    libraryVersion = '1.1.4'
+//    developerId = 'theua'
+//    developerName = 'the'
+//    developerEmail = 'gomro@ukr.net'
+//    licenseName = 'The Apache Software License, Version 2.0'
+//    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+//    allLicenses = ["Apache-2.0"]
+//}
 
 android {
     compileSdkVersion 30
@@ -43,10 +47,10 @@ android {
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
-        versionName "1.0.2"
+        versionName "1.0.5"
 
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        consumerProguardFiles 'consumer-rules.pro'
+//        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+//        consumerProguardFiles 'consumer-rules.pro'
 
     }
 
@@ -87,5 +91,36 @@ dependencies {
 }
 
 
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
+
+//task sourcesJar(type: Jar) {
+//    classifier = 'sources'
+//    from android.sourceSets.main.java.sourceFiles
+//}
+//
+//task javadoc(type: Javadoc) {
+//    source = android.sourceSets.main.java.sourceFiles
+//    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+//}
+//
+//task javadocJar(type: Jar, dependsOn: javadoc) {
+//    classifier = 'javadoc'
+//    from javadoc.destinationDir
+//}
+//
+//task classesJar(type: Jar) {
+//    from "$buildDir/intermediates/classes/release"
+//}
+
+//publish {
+//    userOrg = 'the.ua'
+//    groupId = 'com.github.theua'
+//    artifactId = 'dionis-view'
+//    publishVersion = '1.0.5'
+//    desc = 'A small library of Android'
+//    licences = ['MIT']
+//    website = 'https://github.com/TheUa/dionis-view'
+//}
+
+
+//apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+//apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

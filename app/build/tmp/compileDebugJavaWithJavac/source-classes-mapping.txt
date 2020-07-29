@@ -1,0 +1,4 @@
+the/ua/webbrowsing/MainActivity.java
+ the.ua.webbrowsing.MainActivity
+the/ua/webbrowsing/BuildConfig.java
+ the.ua.webbrowsing.BuildConfig

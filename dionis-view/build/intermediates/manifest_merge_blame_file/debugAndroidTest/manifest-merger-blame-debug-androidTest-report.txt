@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="the.ua.dionisview.test" >
+4
+5    <uses-sdk
+5-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:5:5-74
+6        android:minSdkVersion="23"
+6-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:5:15-41
+7        android:targetSdkVersion="30" />
+7-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:11:5-15:72
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:13:22-53
+13        android:label="Tests for the.ua.dionisview.test"
+13-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:15:22-70
+14        android:targetPackage="the.ua.dionisview.test" />
+14-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:12:22-68
+15
+16    <application
+16-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/abccca17ad3afc5d9f33ec646b1e6559/core-1.1.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+18-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:7:18-43
+19        android:extractNativeLibs="false" >
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:8:9-60
+20-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6747828772095647460.xml:8:23-57
+21    </application>
+22
+23</manifest>

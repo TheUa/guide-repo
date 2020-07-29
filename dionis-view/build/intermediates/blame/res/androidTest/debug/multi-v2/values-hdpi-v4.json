@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/dionis-view/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/system/.gradle/caches/transforms-2/files-2.1/f204268178749c10a98c2c5b02a2f062/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
