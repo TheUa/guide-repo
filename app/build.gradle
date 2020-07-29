@@ -1,5 +1,8 @@
 apply plugin: 'com.android.application'
 
+//apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.jfrog.bintray'
+//apply plugin: 'maven'
 
 android {
     compileSdkVersion 30
@@ -43,7 +46,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 //    implementation 'com.google.android.material:material:1.1.0'
-//    implementation 'the.ua:dionis-view:1.0.1'
+//    implementation 'the.ua:dionis-view:1.0.2'
 
 //    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1@aar'
 //    implementation 'com.mcxiaoke.volley:library:1.0.19'
@@ -52,7 +55,11 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'com.google.android.material:material:1.1.0'
 
+//    implementation 'com.github.TheUa:dionis-view:1.0.5'
+
 //    implementation 'androidx.work:work-runtime:2.4.0'
 
 }
 
+//apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+//apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
