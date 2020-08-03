@@ -3,7 +3,10 @@ package the.ua.webbrowsing;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.KeyEvent;
+import android.view.View;
 import android.widget.LinearLayout;
+import com.facebook.appevents.AppEventsLogger;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import org.jetbrains.annotations.Nullable;
 import the.ua.dionisview.*;
 
@@ -30,9 +33,23 @@ public class MainActivity extends Activity {
                 .createAgentWeb()
                 .ready()
                 .go(go);
+//        dionisView.getWebCreator().getWebView();
+
+//        FloatingActionButton fab = findViewById(R.id.fab);
+//        fab.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                dionisView.getWebCreator().getWebView().evaluateJavascript("console.log('FIRE!');", null);
+//            }
+//        });
+
     }
 
-
+    @Override
+    protected void onDestroy() {
+        dionisView.destroy();
+        super.onDestroy();
+    }
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {

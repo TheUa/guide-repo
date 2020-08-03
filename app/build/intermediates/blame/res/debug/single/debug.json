@@ -1,67 +1,15 @@
 [
     {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/layout_activity_test.xml.flat",
         "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/layout/activity_test.xml"
     },
     {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_dionis.png.flat",
+        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xxhdpi/dionis.png"
     },
     {
         "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/layout_agentweb_error_page.xml.flat",
         "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/layout/agentweb_error_page.xml"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/build/intermediates/res/merged/debug/xml_web_files_public.xml.flat",

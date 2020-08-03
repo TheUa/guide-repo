@@ -19,42 +19,130 @@
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:7:5-75
 13-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:7:22-73
-14
-15    <application
-15-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:9:5-24:19
-16        android:allowBackup="true"
-16-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:10:13-39
-17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/abccca17ad3afc5d9f33ec646b1e6559/core-1.1.0/AndroidManifest.xml:24:18-86
-18        android:debuggable="true"
-19        android:extractNativeLibs="false"
-20        android:icon="@mipmap/ic_launcher"
-20-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:11:13-47
-21        android:label="@string/app_name"
-21-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:12:13-45
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:13:13-58
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.android.installreferrer:installreferrer:1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/9348b94253d9e009e3bcb5d330781c28/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+14-->[com.android.installreferrer:installreferrer:1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/9348b94253d9e009e3bcb5d330781c28/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+15
+16    <application
+16-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:9:5-33:19
+17        android:allowBackup="true"
+17-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:10:13-39
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/abccca17ad3afc5d9f33ec646b1e6559/core-1.1.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/dionis"
+21-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:11:13-42
+22        android:label="@string/app_name"
+22-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:12:13-45
 23        android:supportsRtl="true"
-23-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:14:13-39
-24        android:theme="@style/AppTheme" >
-24-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:15:13-44
-25        <activity
-25-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:16:9-23:20
-26            android:name="the.ua.webbrowsing.MainActivity"
-26-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:16:19-47
-27            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" >
-27-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:17:19-128
-28            <intent-filter>
-28-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:18:9-22:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:19:17-68
-29-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:19:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:21:17-76
-31-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:21:27-74
-32            </intent-filter>
-33        </activity>
-34    </application>
+23-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:13:13-39
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:14:13-44
+26        <activity
+26-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:15:9-22:20
+27            android:name="the.ua.webbrowsing.MainActivity"
+27-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:15:19-47
+28            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" >
+28-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:16:19-128
+29            <intent-filter>
+29-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:17:9-21:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:18:17-68
+30-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:18:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:20:17-76
+32-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:20:27-74
+33            </intent-filter>
+34        </activity>
 35
-36</manifest>
+36        <meta-data
+36-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:24:9-26:58
+37            android:name="com.facebook.sdk.ApplicationId"
+37-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:25:17-62
+38            android:value="@string/facebook_app_id" />
+38-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:26:17-56
+39
+40        <provider
+40-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:28:9-31:42
+41            android:name="com.facebook.FacebookContentProvider"
+41-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:29:17-68
+42            android:authorities="com.facebook.app.FacebookContentProvider642685173005099"
+42-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:30:17-94
+43            android:exported="true" />
+43-->/Users/system/IntelliJIDEAProjects/theuawebbrowsing/app/src/main/AndroidManifest.xml:31:17-40
+44
+45        <activity
+45-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:30:9-33:66
+46            android:name="com.facebook.FacebookActivity"
+46-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:31:13-57
+47            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+47-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:32:13-96
+48            android:theme="@style/com_facebook_activity_theme" />
+48-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:33:13-63
+49        <activity android:name="com.facebook.CustomTabMainActivity" />
+49-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:9-71
+49-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:19-68
+50        <activity
+50-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:35:9-49:20
+51            android:name="com.facebook.CustomTabActivity"
+51-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:36:13-58
+52            android:exported="true" >
+52-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:37:13-36
+53            <intent-filter>
+53-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+54                <action android:name="android.intent.action.VIEW" />
+54-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:40:17-69
+54-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:40:25-66
+55
+56                <category android:name="android.intent.category.DEFAULT" />
+56-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:42:17-76
+56-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:42:27-73
+57                <category android:name="android.intent.category.BROWSABLE" />
+57-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:43:17-78
+57-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:43:27-75
+58
+59                <data
+59-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:45:17-47:50
+60                    android:host="cct.the.ua.webbrowsing"
+60-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:46:21-56
+61                    android:scheme="fbconnect" />
+61-->[com.facebook.android:facebook-common:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/07aeb190321e43e219092a6fd6e568f4/jetified-facebook-common-7.1.0/AndroidManifest.xml:47:21-47
+62            </intent-filter>
+63        </activity>
+64        <!--
+65         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+66         with the application context. This config is merged in with the host app's manifest,
+67         but there can only be one provider with the same authority activated at any given
+68         point; so if the end user has two or more different apps that use Facebook SDK, only the
+69         first one will be able to use the provider. To work around this problem, we use the
+70         following placeholder in the authority to identify each host application as if it was
+71         a completely different provider.
+72        -->
+73        <provider
+73-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:39:9-42:40
+74            android:name="com.facebook.internal.FacebookInitProvider"
+74-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:40:13-70
+75            android:authorities="the.ua.webbrowsing.FacebookInitProvider"
+75-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:41:13-72
+76            android:exported="false" />
+76-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:42:13-37
+77
+78        <receiver
+78-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:44:9-50:20
+79            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+79-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:45:13-86
+80            android:exported="false" >
+80-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:46:13-37
+81            <intent-filter>
+81-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:47:13-49:29
+82                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+82-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:17-95
+82-->[com.facebook.android:facebook-core:7.1.0] /Users/system/.gradle/caches/transforms-2/files-2.1/fc8387a69bb2dd53bed4d73c57380c33/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:25-92
+83            </intent-filter>
+84        </receiver>
+85    </application>
+86
+87</manifest>
